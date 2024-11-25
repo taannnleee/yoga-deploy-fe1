@@ -18,6 +18,7 @@ const nextConfig = {
         ],
         dangerouslyAllowSVG: true,
     },
+    output: 'export'
 };
 
 export default withNextVideo(nextConfig);
